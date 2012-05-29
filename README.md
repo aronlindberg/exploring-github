@@ -1,5 +1,3 @@
-exploring github
-================
 We are a team of researchers at Case Western, Temple, University of Georgia, and Brigham Young, working to create knowledge around digitalized design processes. We believe that open source software development represents an important area, in which there is much to learn.
 
 Using sequence analysis tools borrowed from genetics, we analyze the structure of activities in different repositories, as they unfold across time. Thus, we can help to create knowledge around questions such as:
