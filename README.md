@@ -1,4 +1,4 @@
-exploring-github
+exploring github
 ================
+open source knowledge
 
-Exploring GitHub - open source knowledge
